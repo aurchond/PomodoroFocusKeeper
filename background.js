@@ -1,3 +1,5 @@
+// to debug, go to extensions page and click inspect view background page
+
 console.log('background running');
 
 // this function is from the chrome API
