@@ -1,0 +1,11 @@
+manifest version is 2 because that is set by google
+all_urls are affected by the extension
+
+for the web_accessible_resources, takes all .jpg images in the pictures folder
+
+to run:
+-chrome://extensions and turn on developer mode
+-load unpacked
+
+background stuff:
+"js" is to "content_scripts" as "scripts" is to "background" 
